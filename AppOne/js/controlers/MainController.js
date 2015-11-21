@@ -1,3 +1,3 @@
-app.controler('MainController', ['$scope', function($scope){
-	$scope.title = 'Top Sellers In Books';
+app.controller('MainController', ['$scope', function($scope) {
+  $scope.title = 'Top Sellers in Books';
 }]);
